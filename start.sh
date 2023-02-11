@@ -1,3 +1,3 @@
 #!/bin/bash
-git clone https://github.com/lazygramyt/File-Sharing-Bot ok && cd ok && pip3 install -U -r requirements.txt
-python3 main.py
+git clone https://github.com/ilham88/CloneKlop ok && cd ok && pip3 install -U -r requirements.txt
+bash run.sh
